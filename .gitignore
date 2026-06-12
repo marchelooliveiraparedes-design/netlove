@@ -1,0 +1,34 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Node modules (se usar)
+node_modules/
+npm-debug.log
+
+# Arquivos de mídia grandes (adicione suas imagens e músicas)
+# Descomente as linhas abaixo se quiser ignorar inicialmente e depois fazer upload via Git LFS
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp3
+# *.mp4
+# *.wav
+
+# Arquivos temporários
+*.tmp
+*.temp
+.tmp/
+
+# Logs
+logs/
+*.log
